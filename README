@@ -1,3 +1,6 @@
 This is a text based adventure game that has multiple endings based on which choices you make throughout the game. 
 We have implemented it in Python utilizing Tkinter for its GUI framework.
 We created a custom breadboard controller that handled player input and had leds that reflected ingame info.
+
+Live Demo:
+https://www.youtube.com/watch?v=taHPz74n9tc
